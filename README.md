@@ -19,7 +19,7 @@ This project analyzes a dataset using Python libraries to extract insights, perf
 ## How to Run the Code
 1. Clone this repository:
 ```bash
-   git clone https://github.com/[your-username]/AI_Programming_Project.git
+   git clone https://github.com/sandycheeks03/AI_Programming_Project.git
    cd AI_Programming_Project
 ```
 
