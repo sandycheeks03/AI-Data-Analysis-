@@ -1,0 +1,21 @@
+Student_ID,Name,Age,Math_Score,Science_Score,English_Score,Attendance,Study_Hours,Average_Score,Performance
+1,Alice Johnson,20,85,88,90,95,8,87.66666666666667,Very Good
+2,Bob Smith,21,78,82,75,88,6,78.33333333333333,Good
+3,Carol White,19,92,95,93,98,10,93.33333333333333,Excellent
+4,David Brown,22,65,70,68,75,4,67.66666666666667,Needs Improvement
+5,Emma Davis,20,88,85,87,92,7,86.66666666666667,Very Good
+6,Frank Wilson,21,73,78,80,85,5,77.0,Good
+7,Grace Lee,19,95,92,94,97,9,93.66666666666667,Excellent
+8,Henry Taylor,22,70,75,72,80,5,72.33333333333333,Good
+9,Iris Martinez,20,82,88,85,90,7,85.0,Very Good
+10,Jack Anderson,21,77,80,78,86,6,78.33333333333333,Good
+11,Karen Thomas,19,90,93,91,96,9,91.33333333333333,Excellent
+12,Leo Jackson,22,68,72,70,78,4,70.0,Needs Improvement
+13,Mia Harris,20,86,89,88,93,8,87.66666666666667,Very Good
+14,Noah Clark,21,75,79,77,84,6,77.0,Good
+15,Olivia Lewis,19,93,96,95,99,10,94.66666666666667,Excellent
+16,Paul Walker,22,62,68,65,72,3,65.0,Needs Improvement
+17,Quinn Hall,20,84,87,86,91,7,85.66666666666667,Very Good
+18,Rose Allen,21,79,82,81,87,6,80.66666666666667,Very Good
+19,Sam Young,19,91,94,92,97,9,92.33333333333333,Excellent
+20,Tina King,22,72,76,74,82,5,74.0,Good
